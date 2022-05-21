@@ -7,7 +7,7 @@ color_map: # bgr
   0: [10, 200, 0] #changed
   1: [255, 255, 255] #added JB 
   
-content: # as a ratio with the total number of points
+content: # not used
   0: 0.8775302573170367  #added JB 
   1: 0.12246974268296328  #added JB 
 # classes that are indistinguishable from single scan or inconsistent in
