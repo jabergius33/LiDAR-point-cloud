@@ -17,7 +17,8 @@ The code is implmeted on linux ubuntu 20.04 (conda version: 4.10.3).
 #### Training (potentially need to chmod +x the file)
 
 1. Modify the config file at 'config/semantickitti.yaml' (Setup and dataset path)
-2. Train the network by running: 
+2. Create a folder 'logs_dir'
+3. Train the network by running: 
 ```
 sh train.sh
 ```
@@ -44,4 +45,4 @@ Inputs:
  ``` 
   
   ### Acknowledgment
-Acknowledgment are given to the open source code of 
+Acknowledgment are given to [Cylinder3d](https://github.com/xinge008/Cylinder3D/blob/master/README.md)
