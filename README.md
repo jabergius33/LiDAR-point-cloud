@@ -4,7 +4,7 @@
 
 
 ### Dataset used
-*  [WADS](https://digitalcommons.mtu.edu/wads/)
+* WADS can be found [here](https://digitalcommons.mtu.edu/wads/)
 
 
 ## Visualization 
