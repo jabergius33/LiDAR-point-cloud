@@ -4,16 +4,15 @@
 ### Visualization
 
 
-#### SalsaNext
+##### SalsaNext
 <img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/salsanext.gif" alt="drawing" width="600"/>
 
 
-#### PolarNet
-
+##### PolarNet
 <img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/polarnet.gif" alt="drawing" width="600"/>
 
 
-#### Cylinder3D
+##### Cylinder3D
 <img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/cylinder.gif" alt="drawing" width="600"/>
 
 
