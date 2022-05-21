@@ -64,8 +64,8 @@ def build_dataset(dataset_config,
 
 def main(args):
     #Create SEQ folder
-    if not os.path.isdir(os.path.join(f'./Sequences/')):
-        os.mkdir(os.path.join(f'./Sequences/'))
+    if not os.path.isdir(os.path.join(f'./sequences/')):
+        os.mkdir(os.path.join(f'./sequences/'))
         
     pytorch_device = torch.device('cuda:0')
 
@@ -121,8 +121,8 @@ def main(args):
         print(f"Sequence: {inp}")
         data_dir_tmp = os.path.join(data_dir, f'{inp}', 'velodyne')
         #Create SEQ folder
-        if not os.path.isdir(os.path.join(f'./Sequences/{inp}')):
-            os.mkdir(os.path.join(f'./Sequences/{inp}'))
+        if not os.path.isdir(os.path.join(f'./sequences/{inp}')):
+            os.mkdir(os.path.join(f'./sequences/{inp}'))
     
 
         demo_dataset_loader = build_dataset(dataset_config, data_dir_tmp, grid_size=grid_size, demo_label_dir=demo_label_dir)
@@ -169,7 +169,7 @@ def main(args):
                     filenames = sorted(next(os.walk(f'{data_dir_tmp[:-8]}/labels'))[2])  
 
                     #Predictions to file
-                    outputPath = f'./Sequences/{inp}/predictions/{filenames[i_iter_demo]}' 
+                    outputPath = f'./sequences/{inp}/predictions/{filenames[i_iter_demo]}' 
                     inv_labels.tofile(outputPath)                
                     print("saving: " + outputPath)
 
