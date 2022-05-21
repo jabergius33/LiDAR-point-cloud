@@ -7,11 +7,11 @@ The code is implmeted on linux ubuntu 20.04 (and conda version 4.10.3).
 #### Pre-config:
 ##### Create a environment with:
   ``` 
-  * conda env create -f salsanext_cuda10.yml --name salsanext
+  conda env create -f salsanext_cuda10.yml --name salsanext
   ```
  ##### Activate it using:
   ```
-  * conda activate salsanext
+  conda activate salsanext
   ```
 ##### Install additional package:
   * pip install future
