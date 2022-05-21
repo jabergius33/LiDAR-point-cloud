@@ -9,7 +9,7 @@ train:
   momentum: 0.9          # sgd momentum
   lr_decay: 0.99         # learning rate decay per epoch after initial cycle (from min lr)
   w_decay: 0.0001        # weight decay
-  batch_size: 4 #8 #24              # batch size
+  batch_size: 4               # batch size
   report_batch: 15        # every x batches, report loss
   report_epoch: 100        # every x epochs, report validation set
   epsilon_w: 0.001       # class weight w = 1 / (content + epsilon_w)
@@ -29,12 +29,12 @@ post:
     train: True
     params: False # this should be a dict when in use
   KNN:
-    use: True #True # This parameter default is false
+    use: True # This parameter default is false
     params:
-      knn: 5 #20 
-      search: 5 #5
+      knn: 5 
+      search: 5 
       sigma: 1.0
-      cutoff: 20.0 #4.0
+      cutoff: 20.0 
 
 ################################################################################
 # classification head parameters
@@ -43,7 +43,7 @@ post:
 dataset:
   labels: "kitti"
   scans: "kitti"
-  max_points: 250000 #150000 # max of any scan in dataset
+  max_points: 250000  # max of any scan in dataset
   sensor:
     name: "HDL64"
     type: "spherical" # projective
