@@ -8,9 +8,9 @@
 
 
 ## Visualization 
-* left image : original
-* middle image: predictions
-* right image: after removing correctly classified points 
+* left image : original labels
+* middle image: predicted labels
+* right image: original labels, after removing correctly classified points (red: False negative) 
 ##### SalsaNext
 <img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/salsanext.gif" alt="drawing" width="600"/>
 
