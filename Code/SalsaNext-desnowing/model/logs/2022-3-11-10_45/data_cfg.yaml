@@ -37,7 +37,6 @@ split: # sequence numbers
     - 24
     - 26
   valid:
-    #- 26
     - 28
   test:
     - 30
