@@ -7,7 +7,7 @@
 *  [WADS](https://digitalcommons.mtu.edu/wads/)
 
 
-### Visualization (original/predictions/
+### Visualization 
 * left image : original
 * middle image: predictions
 * right image: after removing correctly classified points 
