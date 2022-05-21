@@ -60,4 +60,6 @@ Inputs:
  python Result.py --prediction-folder /pred --dataset-folder /data_path/sequences
  ``` 
   
-  
+### Acknowledgment
+Acknowledgment are given to the opensource code: [salsanext](https://github.com/Halmstad-University/SalsaNext/blob/master/README.md)
+
