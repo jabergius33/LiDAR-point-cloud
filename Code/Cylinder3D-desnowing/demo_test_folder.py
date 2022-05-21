@@ -161,8 +161,8 @@ def main(args):
                     
                     
                     ##create label folder
-                    if not os.path.isdir(os.path.join(f'./Sequences/{inp}', 'predictions')):
-                        os.mkdir(os.path.join(f'./Sequences/{inp}', 'predictions'))
+                    if not os.path.isdir(os.path.join(f'./sequences/{inp}', 'predictions')):
+                        os.mkdir(os.path.join(f'./sequences/{inp}', 'predictions'))
                         
 
                     ##Fetch all label names!
