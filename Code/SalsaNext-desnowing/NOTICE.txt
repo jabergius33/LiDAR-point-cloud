@@ -1,0 +1,6 @@
+(NOTICE.txt added by Johan Bergius)
+
+The code is based on SalsaNext by Tiago Cortinhal.
+
+The code is modified for binary segmentation. 
+This includes changes to the network layout, network output, loss, config, inference, and evaluation.
