@@ -44,7 +44,7 @@ python demo_test_folder.py --demo-folder /dataset/sequences/
 
 
 #### Evaluate (Result.py)    
-Inputs:
+ Args:
 * --prediction-folder : Path to predictions folder (/pred)
 * --dataset-folder : Path to the dataset (/dataset/sequences/)   
  ##### Example:
