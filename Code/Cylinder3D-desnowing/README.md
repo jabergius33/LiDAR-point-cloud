@@ -11,8 +11,16 @@ The code is implmeted on linux ubuntu 20.04 (conda version: 4.10.3).
 ##### Install additional package:
   * pip install -U scikit-learn
   
+#### Dataset:
+* Make sure your dataset is stored in a /sequence folder according to the SemanticKITTI doc. (Dataset path is the path to this folder)
+ 
+  
 ### How to use it:
-
+1. Modify semantickitti.yaml
+2. Train
+3. Modify demo_test_folder.py
+4. Generate predictions
+5. Eval/result!
 
 #### Training (potentially need to chmod +x the file)
 
@@ -35,7 +43,7 @@ python demo_test_folder.py --demo-folder /dataset/sequences/
 ```
 
 
-#### Evaluate file (Result.py)    
+#### Evaluate (Result.py)    
 Inputs:
 * --prediction-folder : Path to predictions folder (/pred)
 * --dataset-folder : Path to the dataset (/dataset/sequences/)   
