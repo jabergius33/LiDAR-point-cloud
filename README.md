@@ -1,5 +1,8 @@
 ## LiDAR-point-cloud-desnowing
 
+#### The code can be found [here](https://github.com/jabergius33/LiDAR-point-cloud/tree/main/Code)
+
+
 
 ### Visualization
 
@@ -15,6 +18,4 @@
 ##### Cylinder3D
 <img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/cylinder.gif" alt="drawing" width="600"/>
 
-
-#### The code can be found [here](https://github.com/jabergius33/LiDAR-point-cloud/tree/main/Code)
 
