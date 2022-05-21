@@ -19,8 +19,8 @@ The code is implmeted on linux ubuntu 20.04 (conda version: 4.10.3).
 1. Modify semantickitti.yaml
 2. Train
 3. Modify demo_test_folder.py
-4. Generate predictions
-5. Eval/result!
+4. Generate predictions (run demo_test_folder.py )
+5. Eval (run Result.py)
 
 #### Training (potentially need to chmod +x the file)
 
