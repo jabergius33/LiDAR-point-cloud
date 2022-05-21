@@ -3,7 +3,7 @@
 #### The code can be found [here](https://github.com/jabergius33/LiDAR-point-cloud/tree/main/Code)
 
 
-### Dataset
+### Dataset used
 *  [WADS](https://digitalcommons.mtu.edu/wads/)
 
 
