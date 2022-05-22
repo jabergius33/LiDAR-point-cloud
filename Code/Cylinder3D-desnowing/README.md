@@ -54,4 +54,4 @@ python demo_test_folder.py --demo-folder /dataset/sequences/
  ``` 
   
   ### Acknowledgment
-Acknowledgment are given to [Cylinder3d](https://github.com/xinge008/Cylinder3D/blob/master/README.md)
+Acknowledgment is given to [Cylinder3d](https://github.com/xinge008/Cylinder3D/blob/master/README.md)
