@@ -47,7 +47,7 @@ The code is tested on linux ubuntu 20.04 (conda version 4.10.3).
 * -c (string): MC sampling (default: 30) 
  ##### Example:
 ```
-./eval.sh -d /data_path -p ./pred -m /model/logs/2022-3-08-09:05 -s test -n salsanext -c 30 
+./eval.sh -d /data_path -p ./pred -m /model/logs/2022-5-20-13:38 -s test -n salsanext -c 30 
 ```
 
 
