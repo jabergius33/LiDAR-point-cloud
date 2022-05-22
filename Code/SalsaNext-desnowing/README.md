@@ -1,5 +1,4 @@
 # SalsaNext for binary segmentation of snow
-<img src="https://github.com/jabergius33/LiDAR-point-cloud/blob/main/gifs/With_%20FalsePositive/salsanext.gif" alt="drawing" width="400"/>
 
 The code is implmeted on linux ubuntu 20.04 (conda version 4.10.3).
 
