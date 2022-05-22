@@ -51,15 +51,16 @@ The code is implmeted on linux ubuntu 20.04 (conda version 4.10.3).
 ./eval.sh -d /data_path -p ./pred -m /model/logs/2022-3-08-09:05 -s test -n salsanext -c 30 
 ```
 
+
 #### Evaluate file (Result.py)    
 Inputs:
-* --prediction-folder : Path to predictions folder
-* --dataset-folder : Path to the dataset (/data_path/sequences)   
+* --prediction-folder : Path to predictions folder (/pred/sequences)
+* --dataset-folder : Path to the dataset (/dataset/sequences)   
  ##### Example:
  ```
- python Result.py --prediction-folder /pred --dataset-folder /data_path/sequences
+  python Result.py --prediction-folder /pred/sequences --dataset-folder /dataset/sequences
  ``` 
   
 ### Acknowledgment
-Acknowledgment are given to the opensource code: [salsanext](https://github.com/Halmstad-University/SalsaNext/blob/master/README.md)
+Acknowledgment are given to [salsanext](https://github.com/Halmstad-University/SalsaNext/blob/master/README.md)
 
