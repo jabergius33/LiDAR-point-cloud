@@ -45,11 +45,12 @@ python demo_test_folder.py --demo-folder /dataset/sequences/
 
 #### Evaluate (Result.py)    
  Args:
-* --prediction-folder : Path to predictions folder (/pred)
-* --dataset-folder : Path to the dataset (/dataset/sequences/)   
+* --prediction-folder : Path to predictions folder (/pred/sequences)
+* --dataset-folder : Path to the dataset (/dataset/sequences)   
  ##### Example:
+
  ```
- python Result.py --prediction-folder /pred --dataset-folder /dataset/sequences/
+  python Result.py --prediction-folder /pred/sequences --dataset-folder /dataset/sequences
  ``` 
   
   ### Acknowledgment
