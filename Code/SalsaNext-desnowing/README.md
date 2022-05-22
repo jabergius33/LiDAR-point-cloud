@@ -3,7 +3,7 @@
 The code is tested on linux ubuntu 20.04 (conda version 4.10.3).
 
 
-#### Pre-config:
+#### Pre-setup:
 ##### Create a environment with:
   ``` 
   conda env create -f salsanext_cuda10.yml --name salsanext
