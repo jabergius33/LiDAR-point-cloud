@@ -20,10 +20,10 @@ The code is tested on linux ubuntu 20.04 (conda version 4.10.3).
 * Make sure your dataset is stored in a /sequence folder according to the SemanticKITTI doc. (Dataset path is the path to this folder)
  
 ### How to use it for binary segmentation:
-1. Update salsanext.yml and tasks/semantic/config/labels/semantic-kitti.yaml (for your dataset)
-2. Train the model using: train.sh  (Train the network. config found in salsanext.yml)
-3. Generate prediction labels using: eval.sh (Generate prediction labels)
-4. Run: Result.py to evaluate the predicted output (Evaluate the prediction on Recall, Precision & F1)
+
+1. Train the model using: train.sh  (Train the network. Config found in salsanext.yml)
+2. Generate prediction labels using: eval.sh (Generate prediction labels)
+3. Run: Result.py to evaluate the predicted output (Evaluate the prediction on Recall, Precision & F1)
 
 
 #### Training file (train.sh) (potentially need to chmod +x the file)
