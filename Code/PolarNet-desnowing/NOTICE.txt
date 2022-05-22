@@ -1,0 +1,6 @@
+(NOTICE.txt added by Johan Bergius)
+
+The code is based on PolarNet by Edward Zhou (2019).
+
+The code is modified for binary classification. 
+This includes changes to the network layers, network output, loss, and evaluation.
