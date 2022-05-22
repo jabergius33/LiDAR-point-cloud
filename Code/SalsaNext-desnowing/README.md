@@ -1,6 +1,6 @@
 # SalsaNext for binary segmentation of snow
 
-The code is implmeted on linux ubuntu 20.04 (conda version 4.10.3).
+The code is tested on linux ubuntu 20.04 (conda version 4.10.3).
 
 
 #### Pre-config:
