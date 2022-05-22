@@ -43,7 +43,7 @@ The code is tested on linux ubuntu 20.04 (conda version 4.10.3).
 * -d (string): Dataset path (path to /sequence folder according to SemanticKITTI doc.)
 * -p (string): Path to store/save predictions 
 * -m (string): Folder to pre-trained model      
-* -s (string): Data split to infer (test/train/valid) 
+* -s (string): Data split to infer (test/valid) 
 * -c (string): MC sampling (default: 30) 
  ##### Example:
 ```
