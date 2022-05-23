@@ -163,7 +163,3 @@ python Result.py --prediction-folder [PREDICTION_PATH] --dataset-folder [DATA_PA
 '''
 #python Result.py --prediction-folder /home/stud/j/johanb17/Cylinder3D-master/sequences --dataset-folder /home/stud/j/johanb17/MasterThesisCode/sequences
 
-##/home/stud/j/johanb17/Cylinder3D-master/sequences
-##/home/stud/j/johanb17/PolarSeg-master/out/Model2-remove2blocks/sequences
-##/home/stud/j/johanb17/MasterThesisCode/SalsaNext-master/pred_Onsdag-mars09_model-11-400epochs/sequences
-    
