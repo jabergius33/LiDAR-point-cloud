@@ -4,7 +4,7 @@
 
 
 ## Data:
-* Download [here](https://github.com/jabergius33/LiDAR-point-cloud/tree/main/Data)
+* Get the data [here](https://github.com/jabergius33/LiDAR-point-cloud/tree/main/Data)
 
 
 ## Visualization 
