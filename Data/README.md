@@ -1,7 +1,7 @@
 # Dataset
 
-The dataset used is a cleaned version of [WADS](https://bitbucket.org/autonomymtu/wads/src/master/).
-The data includes all the preprocesed sequences files from the orignal data.
+*The dataset used is a cleaned version of [WADS](https://bitbucket.org/autonomymtu/wads/src/master/).
+*The data includes all the preprocesed sequences files from the orignal data.
 
 #### Data cleaning:
 * Removed sequence 37 (identical to 36)
