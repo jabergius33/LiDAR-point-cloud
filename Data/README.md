@@ -3,6 +3,10 @@
 * The dataset used is a cleaned version of [WADS](https://bitbucket.org/autonomymtu/wads/src/master/).
 * The data includes all the preprocesed sequences files from the original data.
 
+### Disclaimer
+* We do not take any credit for the data. The original license for WADS is found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/) and must be followed for usage.
+
+
 #### Data cleaning:
 * Removed sequence 37 (identical to 36)
 * Removed dulicate files 
@@ -14,9 +18,5 @@
 (for use of their data, use the appropriate reference according to [here](https://bitbucket.org/autonomymtu/wads/src/master/))
 
 
-#### Disclaimer
-* We do not take any credit for the data. The original license for WADS is found [here](https://creativecommons.org/licenses/by-nc-sa/4.0/) and must be followed for usage.
-
-
-#### Download:
+### Download:
 * [Here](https://www.dropbox.com/s/w3btpg8qo56dkwl/Cleaned-WADS.zip?dl=0) (you have to read the Disclaimer before downloading)
