@@ -161,5 +161,3 @@ PREDICTION_PATH = './predicted_labels/sequences'
 RUN (terminal):
 python Result.py --prediction-folder [PREDICTION_PATH] --dataset-folder [DATA_PATH]
 '''
-#python Result.py --prediction-folder /home/stud/j/johanb17/Cylinder3D-master/sequences --dataset-folder /home/stud/j/johanb17/MasterThesisCode/sequences
-
